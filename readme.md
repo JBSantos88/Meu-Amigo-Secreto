@@ -19,3 +19,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - Adicionar nomes à lista de participantes.
 - Sortear um nome aleatório da lista.
 - Exibir o resultado do sorteio de forma dinâmica na tela.
+
+## 🌐 Link do Projeto
+
+Você pode acessar o sistema do projeto por meio do Vercel, basta clicar [aqui](https://meu-amigo-secreto-pearl.vercel.app/).
